@@ -6,6 +6,9 @@ Contoh penerapannya :
 http://paper.ijcsns.org/07_book/201408/20140809.pdf
 pada url tersebut, file pdf nya mempunyai nama yang terstruktur khususnya pada akhiran nama file nya yaitu bilangan 01 02 03 04 ... 20 dan seterusnya (bilangan ini berbeda pada tiap edisi jurnal)
 
+- untuk mengunduh cover paper ijcsns :
+ganti url di kode program menjadi : http://search.ijcsns.org/image/book/2015_%02i.jpg
+
 - situs jurnal lain akan diupdate sesuai dengan kebutuhan
 
 # Petunjuk Penggunaan
