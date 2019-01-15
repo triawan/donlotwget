@@ -9,12 +9,19 @@ pada url tersebut, file pdf nya mempunyai nama yang terstruktur khususnya pada a
 - untuk mengunduh cover paper ijcsns :
 ganti url di kode program menjadi : http://search.ijcsns.org/image/book/2015_%02i.jpg
 
-- situs jurnal lain akan diupdate sesuai dengan kebutuhan
+# kak
+- Kak.py digunakan untuk mengunduh file pdf dari situs purdue.edu :
+https://engineering.purdue.edu/kak/compsec/NewLectures/
+
+# Situs jurnal lain akan diupdate sesuai dengan kebutuhan
+
 
 # Petunjuk Penggunaan
 untuk menggunakan kode program ini, caranya adalah
 1. Unduh program dari repository ini
-2. Jalankan program menggunakan python 2 : python paramwget.py 
+2. Jalankan program menggunakan python 2 : 
+	- python paramwget.py 
+	- python kak.py
 
 # Disclaimer
 Ini hanya untuk uji coba saya dalam mengunduh file pdf, karena kebetulan diberi tugas begituan. Jadi kalau ada yang error atau apapun silakan kirimkan kripik ke repo ini yaaakkkkk.... :):):):)
